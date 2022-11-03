@@ -74,5 +74,5 @@ def parrot(message):
 
 
 if __name__ == '__main__':
-    app.config['api_key'] = '5472155279:AAEb7mnQjXaJLZmgVzChnEzaaCyRZGYaGM8'
+    app.config['api_key'] = 'token'
     app.poll(debug=True)
